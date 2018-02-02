@@ -1,0 +1,5 @@
+name = raw_input('What is your name?)
+
+uppercase_name = name.upper
+
+print 'Hello, %s' % uppercase_name

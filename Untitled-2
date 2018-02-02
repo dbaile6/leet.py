@@ -1,0 +1,25 @@
+yesterday_seat_assignments = [
+
+    "X1"
+    "x2"
+    "x3"
+    "x4"
+    "x5"
+    "x6"
+    "x7"
+    x8"
+]
+today_seat_assignments = [
+
+    "X1"
+    "x2"
+    "x3"
+    "x4"
+    "x5"
+    "x6"
+    "x7"
+    x8"
+]
+
+if today_seat_assignments[0] == yesterday_seat_assignments
+    print "Hey, &s can't sit here!" % today_seat_assignments[0]

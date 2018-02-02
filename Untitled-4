@@ -1,0 +1,6 @@
+seat_assignments = {
+    0: "nick"
+    1: "ashley"
+}
+
+print seat_assignments[0]

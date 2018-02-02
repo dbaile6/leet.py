@@ -1,0 +1,4 @@
+bill_amount = int(raw_input("In dollars, what is the total bill amount? "))
+service = float(raw_input("Level of service?))
+tip_amount = bill_amount * service
+total_amount = bill_amount + tip_amount
